@@ -1,5 +1,5 @@
 # ML-workshop-dataset
-This repo contains the weatherAUS.csv dataset
+This repo contains the weatherAUS.csv dataset which we will use to learn how to handle Classification problems using Machine Learning. 
 
 How to download this dataset?
 
