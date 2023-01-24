@@ -1,6 +1,6 @@
 # ML-workshop-dataset
-This repo contains the weatherAUS.csv dataset which we will use to learn how to handle Classification problems using Machine Learning. 
-[Thanks to kaggle for the dataset: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package]
+This repo contains the "weatherAUS.csv" dataset which we will use to learn how to handle Classification problems using Machine Learning. <br>
+*[Thanks to kaggle for the dataset: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package]*
 
 ### **How to download this dataset?**
 
