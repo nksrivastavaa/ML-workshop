@@ -4,6 +4,8 @@ This repostory contains the notebooks used in the Hands-on Workshop on Python Li
 
 The notebook names are self descriptive and can be run directly by opening them and clicking on "Open in Colab" 
 
+You can find our slides [here](https://www.canva.com/design/DAFYdcGfOwk/w8OjCQPACr1V-mdw2xP1Qg/view?utm_content=DAFYdcGfOwk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 This repo also contains the "weatherAUS.csv" dataset which we will use to learn how to handle Classification problems using Machine Learning. 
 
 *[Dataset Source: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package]*
